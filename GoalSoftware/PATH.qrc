@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/Team1pix">
+        <file alias="kit 0.png">image/Team1/kit 0.png</file>
+        <file alias="kit 60.png">image/Team1/kit 60.png</file>
+        <file alias="kit 90.png">image/Team1/kit 90.png</file>
+        <file alias="kit 120.png">image/Team1/kit 120.png</file>
+        <file alias="kit 180.png">image/Team1/kit 180.png</file>
+        <file alias="kit 240.png">image/Team1/kit 240.png</file>
+        <file alias="kit 270.png">image/Team1/kit 270.png</file>
+        <file alias="kit 300.png">image/Team1/kit 300.png</file>
+    </qresource>
+    <qresource prefix="/Team2pix">
+        <file alias="kit 0.png">image/Team2/kit 0.png</file>
+        <file alias="kit 60.png">image/Team2/kit 60.png</file>
+        <file alias="kit 90.png">image/Team2/kit 90.png</file>
+        <file alias="kit 120.png">image/Team2/kit 120.png</file>
+        <file alias="kit 180.png">image/Team2/kit 180.png</file>
+        <file alias="kit 240.png">image/Team2/kit 240.png</file>
+        <file alias="kit 270.png">image/Team2/kit 270.png</file>
+        <file alias="kit 300.png">image/Team2/kit 300.png</file>
+    </qresource>
+    <qresource prefix="/Other">
+        <file alias="field.png">image/field.png</file>
+        <file alias="ball_41.png">image/ball_41.png</file>
+    </qresource>
+    <qresource prefix="/Cage">
+        <file alias="LeftCage.png">image/cage gauche.png</file>
+        <file alias="RightCage.png">image/cage droite.png</file>
+    </qresource>
+</RCC>
